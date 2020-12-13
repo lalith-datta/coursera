@@ -68,3 +68,9 @@ h3 {
 	margin: 15px;
 	margin-top: 30px;
 }
+@media (min-width: 769px){
+	li a {
+		visibility: hidden;
+	}
+
+}
